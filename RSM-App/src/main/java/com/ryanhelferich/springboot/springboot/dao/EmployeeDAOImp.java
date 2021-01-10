@@ -10,6 +10,9 @@ import org.springframework.stereotype.Repository;
 
 import com.ryanhelferich.springboot.springboot.modal.Employee;
 
+//This class is responsible for getting and manipulating the data to and from the database.
+//Implements the Employee Data Access Object interface
+
 @Repository
 public class EmployeeDAOImp implements EmployeeDAO{
 
