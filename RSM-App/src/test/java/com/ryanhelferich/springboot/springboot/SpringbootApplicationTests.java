@@ -1,10 +1,10 @@
-package com.ryanhelferich.RSM.App;
+package com.ryanhelferich.springboot.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RsmAppApplicationTests {
+class SpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {

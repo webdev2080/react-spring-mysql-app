@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ryanhelferich.springboot.springboot.service.EmployeeService;
 import com.ryanhelferich.springboot.springboot.modal.Employee;
+import com.ryanhelferich.springboot.springboot.service.EmployeeService;
 
 @RestController
 @RequestMapping("/api")
